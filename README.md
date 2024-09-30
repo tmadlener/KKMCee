@@ -13,7 +13,7 @@ which will be mandatory for future high-precision lepton collider projects.
 The current version is KKMCee 5.02 which can be downloaded from: 
 https://github.com/KrakowHEPSoft/KKMCee/releases
 
-For installation, we recommend following the HowToStart file.
+For installation, we recommend following the [wiki installation page]( https://github.com/KrakowHEPSoft/KKMCee/wiki)
 
 # Contact
 Any questions or comments can be directed to kkmc@uj.edu.pl
